@@ -1,4 +1,4 @@
-#webSockets - jogoDaVelha
+  # WebSockets - jogoDaVelha
 
 - [ ] Configurar o ambiente Node.js e Express 
 - [ ] Criar a estrutura do projeto  
